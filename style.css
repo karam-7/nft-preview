@@ -124,24 +124,24 @@ body{
     border-radius: 100%;
 }
 
-.person-h4{
+.person-para{
     margin-left: 15px;
     color: hsl(215, 51%, 70%);
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 28px;
-    /* display: flex; */
+   
 }
 
-.person-h4>a{
+.person-para>a{
     color: hsl(0, 0%, 100%);
     text-decoration: none;
     padding-left: 10px;
     cursor: pointer;
 }
 
-.person-h4>a:hover{
+.person-para>a:hover{
     color: hsl(178, 100%, 50%);
 }
 
